@@ -1,6 +1,6 @@
 ### 👋 Hello. I'm Junior and this is my Github.
 
-🎓 CS Student at Sacramento State University.
+🎓 Student at Sacramento State University.
 
 ### 💻 Currently Learning:
   - Java
