@@ -1,5 +1,5 @@
 <h1> 👋 Hello. I'm Junior. </h1>
-<p> A 🎓 Student at Sacramento State University studying Computer Science.</p>
+<p>Currently writing spaghetti code at Hewlett Packard Enterprise. 😄</p>
 
 <div>
   <h2>Experience</h2>
